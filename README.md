@@ -5,6 +5,9 @@ This project focuses on evaluating the risks associated with different aircraft 
 
 The goal is to provide a data-driven foundation for making informed decisions on which aircraft to purchase for commercial and private operations. By understanding historical safety records, the company can minimize risk exposure and strengthen its market entry strategy.
 
+**Tableau Link**
+The following is the link to the tableau dashboard: https://public.tableau.com/app/profile/beauttah.akello/viz/PhaseOneProject_17593390914460/InteractiveAviationAccidentsDashboard
+
  **Business Understanding**
 
 The company plans to expand into the aviation sector but currently lacks insights into the safety profiles of aircraft models.
